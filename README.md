@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on volunteer work in Health Data Science
 - 📫 How to reach me: camposcarlosal@gmail.com
+- Linkedin: https://www.linkedin.com/in/carlosalcampos/
 
 <!---
 carlosalcampos/carlosalcampos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
